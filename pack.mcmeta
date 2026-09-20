@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "JR East E235 Series for Minecraft Transit Railway",
+    "pack_format": 15,
+    "supported_formats": {
+      "min_inclusive": 7,
+      "max_inclusive": 22
+    }
+  }
+}
